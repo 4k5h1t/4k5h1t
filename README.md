@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on contributing to Open Source Projects and App Development.
 - 🌱 I'm Studying Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham.
 - 👯 I’m looking to collaborate with LibreOffice.
-- 🤔 Also learning Android Studio and Machine Learning.
+- 🤔 Also learning Android Studio, Machine Learning and Arduino Programming.
 
 <br />
 
@@ -24,7 +24,7 @@
 
 <a href="https://code.visualstudio.com/download" target="_blank"><img align="left" alt="VSCode" width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" /></a>
 <a href="https://androidstudio.org" target="_blank"><img align="left" alt="VSCode" width="50px" src="https://user-images.githubusercontent.com/73750950/130801100-4b43e223-099b-498a-a764-42a60bbc0977.png" /></a>
-<a href="https://androidstudio.org" target="_blank"><img align="left" alt="VSCode" width="50px" src="https://user-images.githubusercontent.com/73750950/130801100-4b43e223-099b-498a-a764-42a60bbc0977.png" /></a>
+<a href="https://androidstudio.org" target="_blank"><img align="left" alt="VSCode" width="50px" src="https://user-images.githubusercontent.com/73750950/130803062-1d1c393d-5821-4cd5-9c5c-02f5eebfa31f.png" /></a>
 <br />  
 <br />  
 
