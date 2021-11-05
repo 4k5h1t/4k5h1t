@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on contributing to Open Source Projects and App Development.
 - 🌱 I'm Studying Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham.
-- 👯 I’m looking to collaborate with LibreOffice.
+- 👯 Contributing to LibreOffice.
 - 🤔 Also learning Android Studio, Machine Learning and Arduino Programming.
 
 <br />
