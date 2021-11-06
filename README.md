@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on contributing to Open Source Projects and App Development.
 - 🌱 I'm Studying Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham.
+- 🎓 Chair of ACM Student Chapter - Amritapuri (2021 - 2022)
 - 👯 Contributing to LibreOffice.
 - 🤔 Also learning Android Studio, Machine Learning and Arduino Programming.
 
@@ -35,5 +36,5 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/fiod831pc109u3ble5sndhcos)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fvh56j4lelziiuamq3pswy3roa&cover_image=true&theme=novatorem&bar_color=3d69f0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br/>
