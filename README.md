@@ -2,11 +2,11 @@
 
 ### About Me 
 
-- 🔭 Currently working on contributing to Open Source Projects and App Development.
+- 🔭 Currently working on contributing to Open Source Projects and Web Development.
 - 🌱 Studying Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham.
-- 🎓 Chair of ACM Student Chapter - Amritapuri (2021 - 2022)
+- 🎓 Chair of ACM Student Chapter - Amritapuri (2021 - 2023)
 - 👯 Contributing to multiple Open Source projects and Looking to get into Hacktoberfest. Contributed to LibreOffice.
-- 🤔 Also learning Android Studio, Machine Learning and Arduino Programming.
+- 🤔 Also learning Web Development, Machine Learning, Computer Network Architecture, SQL and Formal Language Automata.
 
 <br />
 
