@@ -30,11 +30,13 @@
 <br />  
 <br />  
 
-
-[![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=4k5h1t&show_icons=true&theme=github_dark)](https://github.com/4k5h1t/README.md)
-<br />
-<br />
+<h1 align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4k5h1t&show_icons=true&theme=github_dark"/> ' 
+  <br/>
+  <br/>
+  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=4k5h1t&theme=dracula"/> <br/>
+ </h1>
 
 ### Now Playing 🎧
 
