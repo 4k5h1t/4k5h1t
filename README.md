@@ -26,7 +26,7 @@
 
 <a href="https://code.visualstudio.com/download" target="_blank"><img align="left" alt="VSCode" width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" /></a>
 <a href="https://androidstudio.org" target="_blank"><img align="left" alt="VSCode" width="50px" src="https://user-images.githubusercontent.com/73750950/130801100-4b43e223-099b-498a-a764-42a60bbc0977.png" /></a>
-<a href="https://androidstudio.org" target="_blank"><img align="left" alt="VSCode" width="50px" src="https://user-images.githubusercontent.com/73750950/130803062-1d1c393d-5821-4cd5-9c5c-02f5eebfa31f.png" /></a>
+<a href="https://androidstudio.org" target="_blank"><img align="left" alt="AndroidStudio" width="50px" src="https://user-images.githubusercontent.com/73750950/130803062-1d1c393d-5821-4cd5-9c5c-02f5eebfa31f.png" /></a>
 <br />  
 <br />  
 
@@ -34,11 +34,7 @@
 [![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=4k5h1t&show_icons=true&theme=github_dark)](https://github.com/4k5h1t/README.md)
 <br />
 <br />
-
-<h1 align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=4k5h1t&theme=dracula"/> <br/>
-
-</h1>
 
 ### Now Playing 🎧
 
