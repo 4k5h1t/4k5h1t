@@ -31,12 +31,13 @@
 <br />  
 
 <h1 align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4k5h1t&show_icons=true&theme=github_dark"/> ' 
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=4k5h1t&theme=dracula"/> <br/>
   <br/>
   <br/>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=4k5h1t&theme=dracula"/> <br/>
- </h1>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=4k5h1t&show_icons=true&theme=github_dark"/> ' 
+</h1>
 
 ### Now Playing 🎧
 
