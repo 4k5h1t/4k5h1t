@@ -40,9 +40,14 @@ Software I Use:
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=4k5h1t&theme=dracula"/> <br/>
   <br/>
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4k5h1t&show_icons=true&theme=github_dark"/> 
+  <br/>
+  <br/>
+ 
+  <img align = "center" src = "https://holopin.io/api/user/board?user=4k5h1t"/>
   <br/>
   
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=4k5h1t&show_icons=true&theme=github_dark"/> 
 </h1>
 
 ### Now Playing 🎧
