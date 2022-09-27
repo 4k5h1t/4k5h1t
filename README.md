@@ -31,8 +31,6 @@ Software I Use:
 <a href="https://androidstudio.org" target="_blank"><img align="center" alt="VSCode" width="50px" src="https://user-images.githubusercontent.com/73750950/130801100-4b43e223-099b-498a-a764-42a60bbc0977.png" /></a>
 <a href="https://androidstudio.org" target="_blank"><img align="center" alt="AndroidStudio" width="50px" src="https://user-images.githubusercontent.com/73750950/130803062-1d1c393d-5821-4cd5-9c5c-02f5eebfa31f.png" /></a>
 <br />  
-<br />  
-  
   
 </h2>
 
