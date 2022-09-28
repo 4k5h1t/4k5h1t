@@ -49,6 +49,5 @@ Software I Use:
 </h1>
 
 ### Now Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fvh56j4lelziiuamq3pswy3roa&cover_image=true&theme=novatorem&bar_color=3d69f0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<img align = "center" src = "https://spotify-github-profile.vercel.app/api/view?uid=31fvh56j4lelziiuamq3pswy3roa&cover_image=true&theme=novatorem&bar_color=3d69f0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"/>
 <br/>
