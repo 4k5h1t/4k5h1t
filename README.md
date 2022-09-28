@@ -47,7 +47,7 @@ Software I Use:
   <br/>
   
 </h1>
-
+  
 <h3 align = "center">
 Now Playing 🎧  
 <br/><br/>
