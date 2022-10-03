@@ -1,5 +1,7 @@
 <h1 align="center"> Hey there, I'm Akshit 👋 </h1>
 
+<h3 align="center"> <img align = "center" src = "https://komarev.com/ghpvc/?username=Tanu-N-Prabhu">
+
 ### About Me 
 
 - 🔭 Currently working on Ricing my Ubuntu 22.04 machine, contributing to Open Source Projects and Web Development.
