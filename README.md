@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me at</h3>
 <p align="center">
 <!--<a href="https://twitter.com/alby_0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alby_0n" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/akshit-s-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshitsk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshit-s-k-b8426221b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshitsk" height="30" width="40" /></a>
 <a href="https://kaggle.com/akshitsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="albyon" height="30" width="40" /></a>
 <a href="https://instagram.com/akshit_1602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alby.on" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/u4aie20110_dsa2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="u4aie20110_dsa2" height="30" width="40" /></a>
