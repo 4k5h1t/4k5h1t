@@ -29,12 +29,12 @@ Languages and Tools I Use:
 
 <br />
   
-<a href="https://www.java.org" target="_blank"> <img align="center" alt="Java" width="50px" src="https://user-images.githubusercontent.com/73750950/130800374-c4299348-adf9-4183-9227-c3cf72ab3235.png"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img align="center" alt="Python" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="center" alt="C++" width="50px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a> 
+<a href="https://www.java.org" target="_blank"> <img align="center" alt="Java" height="30" width="40" src="https://user-images.githubusercontent.com/73750950/130800374-c4299348-adf9-4183-9227-c3cf72ab3235.png"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img align="center" alt="Python" height="30" width="40" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="center" alt="C++" height="30" width="40" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a> 
 <img align="center" alt="GitHub" width="65px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<a href="https://git-scm.com/" target="_blank"><img align="center" alt="git" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /></a> 
-<a href="https://in.mathworks.com/products/matlab.html" target="_blank"> <img align="center" alt="Matlab" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/> </a> 
+<a href="https://git-scm.com/" target="_blank"><img align="center" alt="git" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /></a> 
+<a href="https://in.mathworks.com/products/matlab.html" target="_blank"> <img align="center" alt="Matlab" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/> </a> 
 
 <br />  
 
