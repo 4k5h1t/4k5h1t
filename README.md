@@ -36,7 +36,7 @@
 
 <br />  
 
-Software I Use:
+<h3 align="center">Software I Use: </h3>
 
 <p align="center">
 <a href="https://code.visualstudio.com/download" target="_blank"><img align="center" alt="VSCode" width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" /></a>
