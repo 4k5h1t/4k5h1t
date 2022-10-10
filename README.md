@@ -55,6 +55,8 @@
    
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=4k5h1t&show_icons=true&theme=github_dark"/> <br/>
   <br/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4k5h1t&layout=compact"/> <br/>
  
   <img align = "center" src = "https://holopin.io/api/user/board?user=4k5h1t"/>
   <br/>
