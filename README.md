@@ -56,12 +56,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=4k5h1t&show_icons=true&theme=github_dark"/> <br/>
   <br/>
   
+  <!--
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=4k5h1t" alt="4k5h1t" />
   </a>
   </p>
-  
+  -->
+
   <img align = "center" src = "https://holopin.io/api/user/board?user=4k5h1t"/>
   <br/>
   
