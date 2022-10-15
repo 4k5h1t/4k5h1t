@@ -4,7 +4,7 @@
 
 ### About Me 
 
-- 🔭 Currently working on Ricing my Ubuntu 22.04 machine, contributing to Open Source Projects and Web Development.
+- 🔭 Currently working on Managing the ACM Student Chapter at Amritapuri, Ricing my Ubuntu 22.04 machine, contributing to Open Source Projects and Web Development.
 - 🌱 Studying Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham.
 - 🎓 Chair of ACM Student Chapter - Amritapuri (2021 - 2023)
 - 👯 Contributing to multiple Open Source projects and Looking to get into Hacktoberfest. Contributed to LibreOffice.
