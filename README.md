@@ -7,7 +7,7 @@
 - 🔭 Currently working on Managing the ACM Student Chapter at Amritapuri, Federated Learning Algorithms in IoT Devices, contributing to Open Source Projects and Web Development.
 - 🌱 Studying Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham.
 - 🎓 Chair of ACM Student Chapter - Amritapuri (2021 - 2023)
-- 👯 Contributing to multiple Open Source projects. Contributed to LibreOffice.
+- 👯 Contributing to multiple Open Source projects. Contributed to LibreOffice. 
 - 🤔 Also learning Web Development, Machine Learning, Computer Network Architecture, SQL and Formal Language Automata.
 
 <br />
