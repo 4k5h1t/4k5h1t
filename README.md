@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there, I'm Akshit 👋 </h1>  
   
 <!-- <h3 align="center"> <img align = "center" src = "https://komarev.com/ghpvc/?username=4k5h1t"> --> 
-
+ 
 ### About Me  
 
 - 🔭 Currently working on Managing the ACM Student Chapter at Amritapuri, Federated Learning Algorithms in IoT Devices, contributing to Open Source Projects and Web Development.
